@@ -32,4 +32,12 @@
     'demo': [
         'demo/demo.xml',
     ],
+    'installable': True,
+    'auto_install': False,
+    'application': False,
+    'icon': "/your_module_name/static/description/icon.png",
+    "images": ["/static/description/banner.png"],
+    "license": "OPL-1",
+    "price": 0,
+    "currency": "EUR",
 }
